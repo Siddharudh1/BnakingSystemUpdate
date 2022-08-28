@@ -79,7 +79,7 @@ public class AccountOperations {
 			System.out.println(map);
 		}
 		else {
-			System.out.println("invalid username or id or pin or insufficient balnce to wthdraw");
+			System.out.println("invalid username or id or pin or insufficient balnce to wthdraw money");
 		}
 	}
 	
